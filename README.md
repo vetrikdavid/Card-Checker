@@ -3,8 +3,7 @@ Analysis of card data and examine it is fit to policies
 
 This is how look like a card struct..
 
-Card 1#
-ecl:amb
+Card 1# ecl:amb 
 pid:690616023
 byr:1994 iyr:2014 hgt:172cm hcl:#c0946f eyr:2022
 
