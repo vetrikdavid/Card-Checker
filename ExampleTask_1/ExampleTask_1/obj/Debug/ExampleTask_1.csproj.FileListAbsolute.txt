@@ -1,0 +1,7 @@
+C:\Users\Anonymous\source\repos\ExampleTask_1\ExampleTask_1\obj\Debug\ExampleTask_1.csproj.AssemblyReference.cache
+C:\Users\Anonymous\source\repos\ExampleTask_1\ExampleTask_1\obj\Debug\ExampleTask_1.csproj.CoreCompileInputs.cache
+C:\Users\Anonymous\source\repos\ExampleTask_1\ExampleTask_1\bin\Debug\ExampleTask_1.exe.config
+C:\Users\Anonymous\source\repos\ExampleTask_1\ExampleTask_1\bin\Debug\ExampleTask_1.exe
+C:\Users\Anonymous\source\repos\ExampleTask_1\ExampleTask_1\bin\Debug\ExampleTask_1.pdb
+C:\Users\Anonymous\source\repos\ExampleTask_1\ExampleTask_1\obj\Debug\ExampleTask_1.exe
+C:\Users\Anonymous\source\repos\ExampleTask_1\ExampleTask_1\obj\Debug\ExampleTask_1.pdb
